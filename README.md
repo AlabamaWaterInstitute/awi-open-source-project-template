@@ -1,4 +1,4 @@
-#### OWP Open Source Project Template Instructions
+#### AWI Open Source Project Template Instructions
 
 1. Create a new project, doing one of the following:
    1. When creating the new repository, use this template to initialize it.
