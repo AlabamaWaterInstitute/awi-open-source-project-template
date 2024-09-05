@@ -1,22 +1,15 @@
 #### OWP Open Source Project Template Instructions
 
-1. Create a new project.
-2. [Copy these files into the new project](#installation)
-3. Update the README, replacing the contents below as prescribed.
-4. Add any libraries, assets, or hard dependencies whose source code will be included in the project's repository to [Credits And References](#credits-and-references) section.
+1. Create a new project, doing one of the following:
+   1. When creating the new repository, use this template to initialize it.
+   2. Clone this repository and copy the contents to a new repository manually.
+2. Update the README, replacing the contents below as prescribed.
+3. Add any libraries, assets, or hard dependencies whose source code will be included in the project's repository to [Credits And References](#credits-and-references) section.
    1. If there are no such dependencies, consider including a statement to that effect.
-5. Delete these instructions and everything up to the _Project Title_ from the README.
-6. Write some great software and tell people about it.
+4. Delete these instructions and everything up to the _Project Title_ from the README.
+5. Write some great software and tell people about it.
 
 > Keep the README fresh! It's the first thing people see and will make the initial impression.
-
-## Installation
-
-To install all of the template files, run the following script from the root of your project's directory:
-
-```
-bash -c "$(curl -s https://raw.githubusercontent.com/NOAA-OWP/owp-open-source-project-template/open_source_template.sh)"
-```
 
 ----
 
@@ -29,11 +22,10 @@ Describe how this software can improve the lives of its audience.
 
 Other things to include:
 
-  - **Technology stack**: Indicate the technological nature of the software, including primary programming language(s) and whether the software is intended as standalone or as a module in a framework or other ecosystem.
-  - **Status**:  Alpha, Beta, 1.1, etc. It's OK to write a sentence, too. The goal is to let interested people know where this project is at. This is also a good place to link to the [CHANGELOG](CHANGELOG.md).
-  - **Links to production or demo instances**
-  - Describe what sets this apart from related-projects. Linking to another doc or page is OK if this can't be expressed in a sentence or two.
-
+- **Technology stack**: Indicate the technological nature of the software, including primary programming language(s) and whether the software is intended as standalone or as a module in a framework or other ecosystem.
+- **Status**:  Alpha, Beta, 1.1, etc. It's OK to write a sentence, too. The goal is to let interested people know where this project is at. This is also a good place to link to the [CHANGELOG](CHANGELOG.md).
+- **Links to production or demo instances**
+- Describe what sets this apart from related-projects. Linking to another doc or page is OK if this can't be expressed in a sentence or two.
 
 **Screenshot**: If the software has visual components, place a screenshot after the description; e.g.,
 
@@ -73,7 +65,7 @@ Document any known significant shortcomings with the software.
 
 Instruct users how to get help with this software; this might include links to an issue tracker, wiki, mailing list, etc.
 
-**Example**
+### Example
 
 If you have questions, concerns, bug reports, etc, please file an issue in this repository's Issue Tracker.
 
@@ -85,13 +77,11 @@ important pieces, etc.
 
 General instructions on _how_ to contribute should be stated with a link to [CONTRIBUTING](CONTRIBUTING.md).
 
-
 ----
 
 ## Open source licensing info
-1. [TERMS](TERMS.md)
-2. [LICENSE](LICENSE)
 
+1. [LICENSE](LICENSE)
 
 ----
 
