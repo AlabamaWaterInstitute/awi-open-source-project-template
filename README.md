@@ -37,8 +37,7 @@ Other things to include:
 
 **Screenshot**: If the software has visual components, place a screenshot after the description; e.g.,
 
-![](doc/Screenshot.png)
-
+![Example screenshot of a repository](doc/Screenshot.png)
 
 ## Dependencies
 
